@@ -1,3 +1,6 @@
+# react-first-steps
+This repository only contains a first steps from a newbie on reactjs (and english too)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
